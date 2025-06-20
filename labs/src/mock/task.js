@@ -46,7 +46,7 @@ export const tasks = [
     },
     {
         id: "10",
-        title: "Выгулять ???",
+        title: "Выгулять собачку",
         status: "trash-bin",
     },
     {
